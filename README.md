@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="https://github.com/F-Reza/Rocket_App_Clone/blob/main/Final%20Output.gif" width="1000">
+<img src="https://github.com/F-Reza/Rocket_App_Clone/blob/main/Final%20Output.gif" width="300">
 
 
 ## Getting Started
